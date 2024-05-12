@@ -24,7 +24,7 @@ Table of Contents
 .. contents::
    :backlinks: none
    :local:
-
+"Describe in detail what happens behind the scenes when you type 'google.com' in your browser and press Enter. Provide a comprehensive overview covering DNS resolution, TCP/IP communication, HTTPS encryption, load balancing, server-side processing, and client-side rendering. Tailor your explanation for a technical audience, emphasizing the practical implications of understanding this process in the context of web development and networking."
 The "g" key is pressed
 ----------------------
 The following sections explain the physical keyboard actions
